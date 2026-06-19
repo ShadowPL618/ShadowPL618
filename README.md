@@ -8,7 +8,7 @@ I am a multilingual Software Engineering student at Ter AA, Helmond (2025–2028
 ---
 
 ## 🔗 Connect with Me & View My Work
-* 🌐 **Live Portfolio:** [st1738846573.splsites.nl]([https://st1738846573.splsites.nl/)
+* 🌐 **Live Portfolio:** [st1738846573.splsites.nl](https://st1738846573.splsites.nl/)
 * 📄 **Interactive CV:** [shadowpl618.github.io/CV](https://shadowpl618.github.io/CV/)
 * 💼 **LinkedIn:** [linkedin.com/in/juliusz-krajewski-12a225389](https://www.linkedin.com/in/juliusz-krajewski-12a225389)
 * 📧 **Email:** [95260@ter-aa.nl](mailto:95260@ter-aa.nl)
