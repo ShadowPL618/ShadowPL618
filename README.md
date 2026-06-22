@@ -18,7 +18,7 @@ Ik ben een meertalige Software Engineering student aan het Ter AA in Helmond (20
 * 📧 **E-mail:** [95260@ter-aa.nl](mailto:95260@ter-aa.nl)
 
 ### 🏆 Hoogtepunten & Certificaten
-* **Drone Challenge 2026:** Geselecteerd als een van de slechts drie studenten van het hele Ter AA Techniek & ICT college. Actief als **Co-Pilot, Hoofd 3D Designer & Embedded Systems (EBSY) Engineer** voor het Sky Hunters drone team.
+* **Drone Challenge 2026:** Geselecteerd als een van de slechts drie studenten van het hele Ter AA Techniek & ICT college. Actief als **Hoofd 3D Designer & Embedded Systems (EBSY) Engineer** voor het Sky Hunters drone team.
 * **Tech Talent Team Ter AA:** Grote bijdrage geleverd aan competities door het ontwerpen van autonome systemen en het printen van custom 3D-onderdelen.
 * **Maatschappelijk Betrokken:** Meer dan 40 uur vrijwillig technisch werk verricht bij *Stadstuin Helmond*.
 * **Schoolvertegenwoordiger:** Geselecteerd voor het *Helmond DigiDebat (2025)* en *Spelbrekers (2026)*.
@@ -40,7 +40,7 @@ I am a multilingual Software Engineering student at Ter AA, Helmond (2025–2028
 * 📧 **Email:** [95260@ter-aa.nl](mailto:95260@ter-aa.nl)
 
 ### 🏆 Accreditations & Key Highlights
-* **Drone Challenge 2026:** Selected as one of only three students from the entire Ter AA Techniek & ICT college. Served as **Co-Pilot, Main 3D Designer & Embedded Systems (EBSY) Engineer** for the Sky Hunters drone team.
+* **Drone Challenge 2026:** Selected as one of only three students from the entire Ter AA Techniek & ICT college. Served as **Main 3D Designer & Embedded Systems (EBSY) Engineer** for the Sky Hunters drone team.
 * **Tech Talent Team Ter AA:** Contributed heavily to competition-level challenges by designing autonomous systems and creating custom 3D-printed components.
 * **Community Driven:** Over 40 hours of technical volunteer work at *Stadstuin Helmond*, sharpening my ability to solve problems under pressure.
 * **School Representative:** Selected for the *Helmond DigiDebat (2025)* and *Spelbrekers (2026)*.
